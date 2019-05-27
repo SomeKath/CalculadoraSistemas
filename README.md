@@ -1,2 +1,5 @@
-# CalculadoraSistemas
-#Mario Enrique Torres Maldonado 20181020095 // Adrian Sebastian Daza Hamdan 20182020068 // Cristian Daniel Meneses Ramirez 20182020071
+
+# Calculadora básica en 4 bases
+Cristian Daniel Meneses Ramírez - 20182020071 
+Mario Enrique Torres Maldonado  - 20181020095
+Sebastian Daza Hamdan           - 20182020068
